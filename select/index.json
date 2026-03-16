@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "それは小さな光のような",
+  "base_artist": "SAYURI",
+  "createdAt": "2026-03-16T15:42:19.123097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "それは小さな光のような",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/01_それは小さな光のような_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "それは小さな光のような",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/02_それは小さな光のような_さユり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "それは小さな光のような",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/03_それは小さな光のような_さユり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "それは小さな光のような",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/04_それは小さな光のような_さユり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "それは小さな光のような",
+      "artist": "FictionJunction feat. KEIKO",
+      "has_synced": true,
+      "path": "select/05_それは小さな光のような_FictionJunction_feat._KEIKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "それは小さな光のような-「僕だけがいない街」EDver.-",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/06_それは小さな光のような-「僕だけがいない街」EDver.-_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "それは小さな光のような-「め」弾き語りver.-",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/07_それは小さな光のような-「め」弾き語りver.-_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "それは小さな光のような-「僕だけがいない街」EDver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/08_それは小さな光のような-「僕だけがいない街」EDver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "それは小さな光のような - Sorewa Chiisana Hikarinoyouna",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/09_それは小さな光のような_-_Sorewa_Chiisana_Hikarinoyouna_SAYURI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sore Ha Chisana Hikari Noyouna [それは小さな光のような]",
+      "artist": "Sayuri [さユり]",
+      "has_synced": true,
+      "path": "select/10_Sore_Ha_Chisana_Hikari_Noyouna_[それは小さな光のような]_Sayuri_[さユり].lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "それは小さな光のような",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/11_それは小さな光のような_Sayuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それは小さな光のような",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_それは小さな光のような_さユり.txt"
+    }
+  ]
+}
